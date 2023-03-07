@@ -1,8 +1,8 @@
 ## Hi, I'm [Pras](https://praz.me)! 👋
 
 - 👨‍💻 I'm an **Information Systems** student at **Universitas Indonesia**
-- 👀 I’m interested in **Data Science, IT Automation, and Competitive Programming**
-- 🌱 I’m currently learning about **Machine Learning**
+- 👀 I’m interested in **IT Automation, Network & Security, and Web Development**
+- 🌱 I’m currently learning about **Laravel**
 - 💬 Ask me about **IT Automation using Python**
 - ⚡ Fun fact **I'm a Fast Learner⚡**    
 - 📫 Reach me at **<a href="mailto:andhikapraa4@protonmail.com">andhikapraa4@protonmail.com</a>**
