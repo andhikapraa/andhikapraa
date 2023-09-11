@@ -4,7 +4,7 @@
 - 👀 I’m interested in **IT Automation, Artificial Intelligence, and Computer Vision**
 - 🌱 I’m currently learning about **Semantic Web and Computer Vision**
 - 💬 Ask me about **Computer Vision**
-- ⚡ Fun fact **I'm a Fast Learner⚡**    
+- ⚡ Fun fact **I currently building a Start-Up👀**    
 - 📫 Reach me at **<a href="mailto:andhikapraa4@protonmail.com">andhikapraa4@protonmail.com</a>**
 
 <h3 align="left">Connect with me :</h3>
