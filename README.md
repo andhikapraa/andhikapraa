@@ -1,11 +1,11 @@
-## Hi, I'm [Pras](https://praz.me)! 👋
+## Hi, I'm [Pras](https:/s.id/andhikapraa)! 👋
 
 - 👨‍💻 I'm an **Information Systems** student at **Universitas Indonesia**
-- 👀 I’m interested in **IT Automation, Artificial Intelligence, and Computer Vision**
-- 🌱 I’m currently learning about **Semantic Web and Computer Vision**
-- 💬 Ask me about **Computer Vision**
+- 👀 I’m interested in **IT Automation, Artificial Intelligence, and Web Development**
+- 🌱 I’m currently learning about **AI Agent**
+- 💬 Ask me about **AI**
 - ⚡ Fun fact **I currently building a Start-Up👀**    
-- 📫 Reach me at **<a href="mailto:andhikapraa4@protonmail.com">andhikapraa4@protonmail.com</a>**
+- 📫 Reach me at **<a href="mailto:andhika@prasetya.dev">andhika@prasetya.dev</a>**
 
 <h3 align="left">Connect with me :</h3>
 <p align="left">
